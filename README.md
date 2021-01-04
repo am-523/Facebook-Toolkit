@@ -18,5 +18,7 @@ How to get the xs value from Facebook cookie with Google Chrome:
  Download Extension chrome : https://chrome.google.com/webstore/detail/get-cookie-for-audiencere/gklnmccdkdlihblgblkdlidciegnkelp?hl=en
  
 ## ScreenShot
-![135804731_1203082676755061_1801387058983935170_n](https://user-images.githubusercontent.com/61135648/103492764-0ad18280-4e68-11eb-9f9c-db5571b26ebc.jpg)
+![Screenshot_940](https://user-images.githubusercontent.com/61135648/103494615-a5cf5a00-4e72-11eb-9f37-2ed763612732.png)
+![Screenshot_941](https://user-images.githubusercontent.com/61135648/103494621-abc53b00-4e72-11eb-8c94-24b919722e96.png)
+
 Tutorial : https://www.youtube.com/watch?v=wpgtjDNT4hY
